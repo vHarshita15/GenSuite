@@ -25,6 +25,13 @@ GenSuite is a full-stack web application that brings AI-assisted career, content
 - API credentials for the tools you want to use (Groq and Clipdrop)
 - Neon Postgres and Cloudinary credentials for features that use those services
 
+## Glimpse 
+
+<img width="1886" height="962" alt="Screenshot 2026-09-29 171123" src="https://github.com/user-attachments/assets/bb3ce44f-8ff2-48aa-ac91-883fd6e62e24" />
+<img width="1876" height="963" alt="Screenshot 2026-09-29 171112" src="https://github.com/user-attachments/assets/a5d7e79a-b5e8-4a4f-b4e3-67a260bc1295" />
+<img width="1886" height="960" alt="Screenshot 2026-09-29 171101" src="https://github.com/user-attachments/assets/2e3bd595-d125-4a36-bb4c-2d9184862a26" />
+
+
 ## Run locally
 
 ### 1. Install dependencies
